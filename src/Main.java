@@ -24,7 +24,7 @@ public class Main {
             scanner.nextLine();
 
             if (resposta == 1) {
-                System.out.println("Digite uma frase encerrar:");
+                System.out.println("Digite uma frase para encerrar:");
                 saudacao = scanner.nextLine();
 
                     System.out.println(" Você Digitou " + saudacao);
